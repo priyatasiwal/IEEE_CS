@@ -1,0 +1,29 @@
+.iiitb{
+    width: 100%;
+    min-height: 100vh;
+    background: #fff;
+}
+
+.iiitb img{
+    width: 200px;
+}
+
+.ieee{
+    width: 100%;
+    min-height: 100vh;
+    background: #fff;
+}
+
+.ieee img{
+    width: 200px;
+}
+
+.cs{
+    width: 100%;
+    min-height: 100vh;
+    background: #fff;
+}
+
+.cs img{
+    width: 200px;
+}
