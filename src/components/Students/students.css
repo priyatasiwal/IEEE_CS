@@ -1,0 +1,16 @@
+.student{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: #fff;
+}
+
+.students{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: #4CAF50;
+}
